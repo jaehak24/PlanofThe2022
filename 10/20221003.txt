@@ -1,0 +1,15 @@
+06:00~06:50 Work Out
+06:50~08:00 Greedy Algorithm
+08:00~08:30 rest
+08:30~09:20 baekJoon
+09:20~11:00 hairCut
+11:00~01:30 father's Day
+01:30~03:00 moving time to studio
+03:00~03:50 Preparation check
+03:50~04:40 zoom meet for wdenesday work
+04:40~06:00 to Studio
+06:00~08:00 baekJoon
+08:00~09:00 rest
+09:00~11:00 String method for Java with 2 blogs+githhub
+11:00~12:00 going to sleep
+
